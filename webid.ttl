@@ -8,7 +8,7 @@
    foaf:primaryTopic <#this> .
 
 
-<#this> a foaf:Agent ;
+<#onto> a foaf:Agent ;
    foaf:name "onto";
    cert:key [
        a cert:RSAPublicKey;
@@ -19,7 +19,7 @@
 
 
 
-<#me> a foaf:Person ;
+<#this> a foaf:Person ;
    foaf:name "Denis Streitmatter";
    cert:key [ 
        a cert:RSAPublicKey;
