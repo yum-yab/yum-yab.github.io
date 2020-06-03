@@ -9,7 +9,7 @@
 
 
 <#onto> a foaf:Agent ;
-   foaf:name "onto";
+   foaf:name "DBpedia Archivo";
    foaf:homepage <http://archivo.dbpedia.org/>;
    foaf:status "DBpedia Archivo - A Web-Scale Interface for Ontology Archiving under Consumer-oriented Aspects";
    cert:key [
