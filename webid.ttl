@@ -24,6 +24,10 @@
 
 <#this> a foaf:Person ;
    foaf:name "Denis Streitmatter";
+   foaf:geekcode "GCS d? s+ a-- C+ L++ PS+++ PE- b+ G";
+   foaf:firstname "Denis";
+   foaf:gender "♂";
+   foaf:image <https://avatars1.githubusercontent.com/u/37804144?s=400&u=6049d2562c21d9447d163945177533fc4609931f&v=4>;
    cert:key [ 
        a cert:RSAPublicKey;
        rdfs:label "13.11.2018, first WebID";
