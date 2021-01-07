@@ -2,6 +2,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix cert: <http://www.w3.org/ns/auth/cert#> .
 @prefix rdfs: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dbo: <http://dbpedia.org/ontology/> .
 
 <> a foaf:PersonalProfileDocument ;
    foaf:maker <#this> ;
@@ -22,7 +23,7 @@
 
 
 
-<#this> a foaf:Person ;
+<#this> a foaf:Person, dbo:DBpedian ;
    foaf:name "Denis Streitmatter";
    foaf:geekcode "GCS d? s+ a-- C+ L++ PS+++ PE- b+ G";
    foaf:firstname "Denis";
