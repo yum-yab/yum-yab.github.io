@@ -13,7 +13,7 @@
    foaf:name "DBpedia Archivo";
    foaf:homepage <http://archivo.dbpedia.org/>;
    foaf:status "DBpedia Archivo - A Web-Scale Interface for Ontology Archiving under Consumer-oriented Aspects";
-   foaf:img <https://upload.wikimedia.org/wikipedia/commons/7/73/DBpediaLogo.svg> ;
+   foaf:img <https://yum-yab.github.io/logos/archivo_logo_quader.png> ;
    cert:key [
        a cert:RSAPublicKey;
        rdfs:label "user for publishing vocabularies for DBpedia Archivo";
