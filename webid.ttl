@@ -29,6 +29,7 @@
    foaf:firstname "Denis";
    foaf:gender "♂";
    foaf:img <https://avatars1.githubusercontent.com/u/37804144?s=400&u=6049d2562c21d9447d163945177533fc4609931f&v=4>;
+   foaf:account <https://energy.databus.dbpedia.org/denis#this> ;
    cert:key [ 
        a cert:RSAPublicKey;
        rdfs:label "13.11.2018, first WebID";
